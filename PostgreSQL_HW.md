@@ -3,6 +3,10 @@ Analyzing DVD rental data with SQL
 윤정하
 11/23/2019
 
+  - [Using query & R language](#using-query-r-language)
+      - [Step1. Preparing data](#step1.-preparing-data)
+      - [Step2. Analyzing data](#step2.-analyzing-data)
+
 ## Using query & R language
 
 ### Step1. Preparing data
